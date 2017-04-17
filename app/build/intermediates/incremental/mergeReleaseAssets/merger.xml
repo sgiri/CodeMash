@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Suganthi\StudioProjects\codemash\app\src\main\assets"><file name="room_map.jpg" path="C:\Users\Suganthi\StudioProjects\codemash\app\src\main\assets\room_map.jpg"/></source><source path="C:\Users\Suganthi\StudioProjects\codemash\app\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="C:\Users\Suganthi\StudioProjects\codemash\app\src\release\assets"/></dataSet></merger>

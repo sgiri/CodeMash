@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_star.xml",
+        "source": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\src\\main\\res\\drawable\\icon_star.xml"
+    },
+    {
+        "merged": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_check.xml",
+        "source": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\src\\main\\res\\drawable\\custom_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_title.xml",
+        "source": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\src\\main\\res\\drawable\\icon_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_tech.xml",
+        "source": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\src\\main\\res\\drawable\\icon_tech.xml"
+    },
+    {
+        "merged": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_profile.xml",
+        "source": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\src\\main\\res\\drawable\\icon_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_date.xml",
+        "source": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\src\\main\\res\\drawable\\icon_date.xml"
+    }
+]

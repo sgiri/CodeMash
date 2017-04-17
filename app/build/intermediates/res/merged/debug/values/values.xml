@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#369bea</color>
+    <color name="background_alt">#86c3f2</color>
+    <color name="foreground_text">#153e5d</color>
+    <color name="orange_text">#FF9900</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <string name="About">About</string>
+    <string name="AboutDesc">This CodeMash 2017 Android application was created by Suganthi Giridharan (@Greenpal) and Kim Painter (@kgpainter).</string>
+    <string name="AboutDesc2">(inspired by the Cincy All Things Mobile User Group)</string>
+    <string name="EventMap">Event Map</string>
+    <string name="Favorites">Favorites</string>
+    <string name="PrecompilerSessions">Precompiler Sessions</string>
+    <string name="RefreshAll">Refresh All</string>
+    <string name="Sessions">Sessions</string>
+    <string name="Speaker">Speaker</string>
+    <string name="Speakers">Speakers</string>
+    <string name="TwitterFeed">"Twitter Feed"</string>
+    <string name="app_name">CodeMash 2017</string>
+    <string name="codemash">CodeMash 2017</string>
+    <string name="codemashabbr">CodeMash</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_session_list">SessionListActivity</string>
+    <style name="AppTheme" parent="android:Theme.Black"/>
+</resources>

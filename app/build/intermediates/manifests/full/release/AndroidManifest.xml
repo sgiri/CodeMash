@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.catmug.code"
+    android:versionCode="3"
+    android:versionName="1.0.2" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="15" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name="com.catmug.code.CodeMashApp"
+        android:allowBackup="true"
+        android:icon="@drawable/codemashlogo_lg"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.catmug.code.MainActivity"
+            android:label="CodeMash 2017" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.catmug.code.SessionTabLayoutActivity"
+            android:label="Session Listing" >
+        </activity>
+
+        <!-- Single List Item View -->
+        <activity
+            android:name="com.catmug.code.SingleListItemActivity"
+            android:label="Session Detail" >
+        </activity>
+        <activity android:name="com.catmug.code.SessionListActivity" >
+        </activity>
+        <activity android:name="com.catmug.code.JSONParser" >
+        </activity>
+        <activity android:name="com.catmug.code.GetSessions" >
+        </activity>
+        <activity android:name="com.catmug.code.SessionService" >
+        </activity>
+        <activity
+            android:name="com.catmug.code.FavoriteSessionsActivity"
+            android:label="@string/Favorites" >
+        </activity>
+        <activity
+            android:name="com.catmug.code.EventMapActivity"
+            android:label="@string/EventMap" >
+        </activity>
+        <activity
+            android:name="com.catmug.code.AboutActivity"
+            android:label="@string/About" >
+        </activity>
+        <activity
+            android:name="com.catmug.code.SpeakerListActivity"
+            android:label="@string/Speakers" >
+        </activity>
+        <activity
+            android:name="com.catmug.code.SpeakerListItemActivity"
+            android:label="@string/Speaker" >
+        </activity>
+    </application>
+
+</manifest>

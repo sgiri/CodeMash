@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\build\\intermediates\\res\\merged\\release\\layout\\event_map.xml",
+        "source": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\src\\main\\res\\layout\\event_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\build\\intermediates\\res\\merged\\release\\layout\\session_list_byspeaker.xml",
+        "source": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\src\\main\\res\\layout\\session_list_byspeaker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\build\\intermediates\\res\\merged\\release\\layout\\main_activity.xml",
+        "source": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\src\\main\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\build\\intermediates\\res\\merged\\release\\layout\\session_list_item.xml",
+        "source": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\src\\main\\res\\layout\\session_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\build\\intermediates\\res\\merged\\release\\layout\\session_list.xml",
+        "source": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\src\\main\\res\\layout\\session_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\build\\intermediates\\res\\merged\\release\\layout\\session_list_bytechnology.xml",
+        "source": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\src\\main\\res\\layout\\session_list_bytechnology.xml"
+    },
+    {
+        "merged": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\build\\intermediates\\res\\merged\\release\\layout\\about.xml",
+        "source": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\build\\intermediates\\res\\merged\\release\\layout\\session_main.xml",
+        "source": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\src\\main\\res\\layout\\session_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\build\\intermediates\\res\\merged\\release\\layout\\favorite_list.xml",
+        "source": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\src\\main\\res\\layout\\favorite_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\build\\intermediates\\res\\merged\\release\\layout\\speaker_list_item.xml",
+        "source": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\src\\main\\res\\layout\\speaker_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\build\\intermediates\\res\\merged\\release\\layout\\speaker_list.xml",
+        "source": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\src\\main\\res\\layout\\speaker_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\build\\intermediates\\res\\merged\\release\\layout\\header.xml",
+        "source": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\build\\intermediates\\res\\merged\\release\\layout\\main.xml",
+        "source": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\build\\intermediates\\res\\merged\\release\\layout\\session_list_bydate.xml",
+        "source": "C:\\Users\\Suganthi\\StudioProjects\\codemash\\app\\src\\main\\res\\layout\\session_list_bydate.xml"
+    }
+]

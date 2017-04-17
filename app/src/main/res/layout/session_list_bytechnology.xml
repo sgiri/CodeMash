@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingBottom="8dp"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    android:paddingTop="8dp" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/technology"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/background_alt"
+            android:paddingBottom="2dip"
+            android:paddingLeft="8dip"
+            android:paddingTop="2dip"
+            android:textColor="@color/foreground_text"
+            android:textSize="18sp"
+            android:textStyle="bold" >
+        </TextView>
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"            
+            android:paddingBottom="2dip"
+            android:paddingLeft="14dip"
+            android:paddingRight="8dip"
+            android:paddingTop="2dip"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="bold" >
+        </TextView>
+
+        <TextView
+            android:id="@+id/speakername"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="2dip"
+            android:paddingLeft="14dip"
+            android:paddingRight="8dip"
+            android:paddingTop="2dip"
+            android:textColor="@color/background_alt"
+            android:textSize="16sp"
+            android:textStyle="bold" >
+        </TextView>
+
+        <TextView
+            android:id="@+id/start"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone" >
+        </TextView>
+
+        <TextView
+            android:id="@+id/startshow"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="2dip"
+            android:paddingLeft="14dip"
+            android:paddingRight="8dip"
+            android:paddingTop="2dip"
+            android:textColor="@color/background_alt"
+            android:textSize="16sp"
+            android:textStyle="bold" >
+        </TextView>
+
+        <TextView
+            android:id="@+id/difficulty"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="2dip"
+            android:textColor="#acacac"
+            android:visibility="gone" >
+        </TextView>
+
+        <TextView
+            android:id="@+id/abstractt"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone" >
+        </TextView>
+
+        <TextView
+            android:id="@+id/room"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone" >
+        </TextView>
+    </LinearLayout>
+
+    <CheckBox
+        android:id="@+id/check"
+        style="?android:attr/starStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingRight="8dip"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:button="@drawable/custom_check"
+        android:clickable="true"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:gravity="right"
+        android:paddingBottom="25dp" />
+    
+</RelativeLayout>
